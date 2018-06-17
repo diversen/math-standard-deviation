@@ -1,0 +1,23 @@
+{
+  "name": "math-standard-deviation",
+  "version": "1.0.0",
+  "description": "Small javascript / nodejs module to calculate the standard deviation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/math-standard-deviation.git"
+  },
+  "keywords": [
+    "standard-deviation",
+    "population-standard-deviation"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/math-standard-deviation/issues"
+  },
+  "homepage": "https://github.com/diversen/math-standard-deviation#readme"
+}
