@@ -4,7 +4,7 @@ function mean (dataset) {
     return m;
 }
 
-function deviation (dataset, biased) {
+function deviation (dataset, unbiased) {
 
     var m = mean(dataset)
 
@@ -14,7 +14,7 @@ function deviation (dataset, biased) {
     });
 
     var n = dataset.length;
-    if (biased) {
+    if (unbiased) {
         n--;
     } 
 
