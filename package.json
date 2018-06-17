@@ -1,6 +1,6 @@
 {
   "name": "math-standard-deviation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small javascript / nodejs module to calculate the standard deviation",
   "main": "index.js",
   "scripts": {
