@@ -8,6 +8,8 @@ The [standard deviation function](https://en.wikipedia.org/wiki/Standard_deviati
 
 Usage: see [test.js](test.js)
 
+
+
 ## License
 
 MIT © [Dennis Iversen](https://github.com/diversen)
