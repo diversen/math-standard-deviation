@@ -1,6 +1,6 @@
 var sd = require('./index')
 
-var data = [2, 4, 4, 4,  5,  5,  7, 9]
+var data = [14,15,9,1]
 
 // Get mean
 console.log(sd.mean(data));
